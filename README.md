@@ -4,7 +4,7 @@ A simple front-end project demonstrating how to fetch, display, search, sort, an
 **🔍 Table of Contents**
 1. Features
 2. Demo
-3. Getting Started
+3. Getting Started:- 
  A .Prerequisites
  B .Installation
  C .Running the Project
