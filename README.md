@@ -44,7 +44,7 @@ Internet connection (to fetch API data)
 
 .Installation
 1. Clone the repository
-git clone https://github.com/your-username/fetch-user-data.git
+git clone https://github.com/DONDAPATI-THEERDHA-PURUSHOTHAM/DATA-DISPLAY.git
 cd fetch-user-data
 2. Open the project in your code editor.
 
