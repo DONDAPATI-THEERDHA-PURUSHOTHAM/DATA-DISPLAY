@@ -1,7 +1,7 @@
-Fetch and Display User Data:
+**Fetch and Display User Data**
 A simple front-end project demonstrating how to fetch, display, search, sort, and reload user data from a public API using the JavaScript Fetch API.
 
-🔍 Table of Contents
+**🔍 Table of Contents**
 Features
 Demo
 Getting Started
@@ -16,7 +16,7 @@ Future Enhancements
 Contributing
 License
 
-🎯 Features
+**🎯 Features**
 
 Fetch API: Retrieve user data asynchronously.
 Loading Spinner: Visual feedback during data loading.
@@ -26,29 +26,29 @@ Reload Button: Refetch data on demand.
 Error Handling: Gracefully handle network errors.
 Responsive UI: Card-based layout that adapts to different screen sizes.
 
-📸 Demo
+**📸 Demo**
 
 | INTERNET | NO INTERNET |
 |------------|----------------|
 | ![success](INTERNET.png) | ![error](NOINTERNET.png) |
 
 
-🚀 Getting Started
+**🚀 Getting Started**
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
-.Prerequisites
+*.Prerequisites*
 Modern web browser (Chrome, Firefox, Edge, Safari)
 VS Code or any code editor
 Internet connection (to fetch API data)
 
-.Installation
+*.Installation*
 1. Clone the repository
 git clone https://github.com/DONDAPATI-THEERDHA-PURUSHOTHAM/DATA-DISPLAY.git
 cd fetch-user-data
 2. Open the project in your code editor.
 
-.Running the Project
+*.Running the Project*
 1. Start a local server (optional but recommended for CORS safety). For example, using VS Code Live Server extension or Python's built-in server:
 # Python 3.x
 python -m http.server 8000
@@ -60,20 +60,21 @@ Search users by name or email
 Sort users A–Z or Z–A
 Reload data using the button
 
-📦 Project Structure
+**📦 Project Structure**
 fetch-user-data/
 ├── data display.html  # Main HTML page containing CSS and JavaScript(fetch,search,sort)
 ├── README.md       	 # Project documentation
-└── demo.png          # Screenshot for README
+└── INTERNET.png          # Screenshot for README
+└── NOINTERNET.png          # Screenshot for README
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 1.HTML5 & CSS3
 2.JavaScript (ES6+)
 3.Fetch API
 4.JSONPlaceholder (online REST API)
 
-🌐 API Source
+**🌐 API Source**
 
 Data is fetched from JSONPlaceholder:
 
@@ -81,14 +82,14 @@ Data is fetched from JSONPlaceholder:
 
 > JSONPlaceholder is a free, fake REST API for testing and prototyping.
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 Pagination or infinite scroll
 Export data as CSV or JSON
 Theme switcher (light/dark mode)
 Unit tests with Jest
 
-🤝 Contributing
+**🤝 Contributing**
 
 1. Fork the repository
 2. Create your feature branch: git checkout -b feature/YourFeature
@@ -96,8 +97,8 @@ Unit tests with Jest
 4. Push to the branch: git push origin feature/YourFeature
 5. Open a Pull Request
 
-📝 License
+**📝 License**
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 **Happy coding!**
