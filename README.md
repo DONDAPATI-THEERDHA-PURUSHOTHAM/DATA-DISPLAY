@@ -2,19 +2,19 @@
 A simple front-end project demonstrating how to fetch, display, search, sort, and reload user data from a public API using the JavaScript Fetch API.
 
 **🔍 Table of Contents**
-# Features
-# Demo
-# Getting Started
- # .Prerequisites
- # .Installation
- # .Running the Project
-# Usage
-# Project Structure
-# Technologies Used
-# API Source
-# Future Enhancements
-# Contributing
-# License
+1. Features
+2. Demo
+3. Getting Started
+ A .Prerequisites
+ B .Installation
+ C .Running the Project
+4. Usage
+5. Project Structure
+6. Technologies Used
+7. API Source
+8. Future Enhancements
+9. Contributing
+10. License
 
 **🎯 Features**
 
