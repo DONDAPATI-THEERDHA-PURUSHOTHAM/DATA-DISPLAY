@@ -1,4 +1,4 @@
-#Fetch and Display User Data
+# Fetch and Display User Data
 A simple front-end project demonstrating how to fetch, display, search, sort, and reload user data from a public API using the JavaScript Fetch API.
 
 **🔍 Table of Contents**
